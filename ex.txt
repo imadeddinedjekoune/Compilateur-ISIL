@@ -1,0 +1,34 @@
+import ISIL.io ;
+import IISIL_lang ;
+public class $amine {
+CONST Entier $p;
+Entier $int ;
+Reel $x , $j ;
+
+Reel @z[5],@m[5];
+Reel $x ;
+Reel @w[1];
+CONST Entier $p1;
+CONST Entier $p2=15 ;
+## debut # main ##
+main(){
+  $p2= 10 ;
+  @k[5] = 10 ;
+  $p1 = 16.123 ;
+  $int = $j / 5 ;
+  $x = $j ;
+  $int = 10.10 ;
+  $int = $p2 +$int+ 5 ;
+  $int = $p2 +$int+ 5.10 ;
+  
+  Out("dffzfz%f",$x);
+for($p=+10;$p<+30;$p++){
+     In("dffzfz%s%d",$x);
+ 
+   }
+
+  
+Out("dffzfz%d",$x);
+
+	}
+}
